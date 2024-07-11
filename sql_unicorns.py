@@ -1,7 +1,4 @@
-
-
-
- %%bigquery --project your_project_id
+%%bigquery --project your_project_id
  
  WITH top_industries AS (
  	Select i.industry,
